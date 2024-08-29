@@ -1,0 +1,24 @@
+{
+  "name": "rest-rant",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.12.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-react-views": "^0.11.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.3.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
